@@ -11,4 +11,4 @@ decades at a specific airport by inputting the specific airport code (example: "
 Majority of the results support that demand for air travel is dangerously rising as prices drastically fall. This will lead to an increase in plane usage and therefore pollution.
 
 How to run:
-Download the project as a folder and run the python file.
+download the project as a folder and run the python file.
