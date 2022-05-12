@@ -9,3 +9,6 @@ The second feature visualizes the national average ticket prices over the past f
 decades at a specific airport by inputting the specific airport code (example: "LAX"). Two lines representing raw and inflation-adjusted prices will be shown.
 
 Majority of the results support that demand for air travel is dangerously rising as prices drastically fall. This will lead to an increase in plane usage and therefore pollution.
+
+How to run:
+Download the project as a folder and run the python file.
